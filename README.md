@@ -22,5 +22,7 @@ tool-calling systems
 | [FinPay API](./fintech-api) | Secure fintech API with JWT/RBAC and encryption | ASP.NET Core, SQLite |
 | [MiniDesk](./minidesk) | Remote desktop & file sync application | C# |
 
-## Contact
-GitHub: [Ummesalma53](https://github.com/Ummesalma53)
+   ## Contact
+   GitHub: [Ummesalma53](https://github.com/Ummesalma53)  
+   LinkedIn: [linkedin.com/in/ummesalma-abbas]  
+   Email: ummesalmabbas53@gmail.com
